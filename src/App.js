@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Here is my edited text.. back in compose edited
+          Here is my edited text.. to test action
         </p>
         <a
           className="App-link"
