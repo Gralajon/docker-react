@@ -24,6 +24,6 @@ jobs:
           application_name: "Udemy Docker React"
           environment_name: Udemydockerreact-env
           existing_bucket_name: "elasticbeanstalk-us-west-1-565295202784"
-          region: us-east-1
+          region: us-west-1
           version_label: ${{ github.sha }}
           deployment_package: deploy.zip
